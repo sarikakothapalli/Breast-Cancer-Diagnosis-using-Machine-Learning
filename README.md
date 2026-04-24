@@ -102,7 +102,7 @@ The goal is to classify tumors as **Malignant (M)** or **Benign (B)** and identi
 
 ## 📎 Research Paper
 📄 Full paper available in this repository:  
-👉 `research_paper.pdf`
+👉 `Research_paper.pdf`
 
 ---
 
